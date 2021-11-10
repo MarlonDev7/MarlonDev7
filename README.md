@@ -5,6 +5,5 @@
 - 📫 How to reach me progamaral@gmail.com
 
 <!---
-MarlonDev7/MarlonDev7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Oiii eu sou o Marlon Amaral, criador de conteúdo de programação e tecnologia!
 --->

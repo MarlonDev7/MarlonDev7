@@ -1,9 +1,13 @@
-- 👋 Hi, I’m MarlonAmaral;
-- 👀 I’m interested in Web development;
-- 🌱 I’m currently learning JavaScript;
-- 💞️ I’m looking to collaborate with my projects
-- 📫 How to reach me progamaral@gmail.com
-
-<!---
-Oiii eu sou o Marlon Amaral, criador de conteúdo de programação e tecnologia!
---->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="script.js"></script>
+    <title> Hey, I'm Marlon Amaral</title>
+</head>
+<body>
+    
+</body>
+</html>
